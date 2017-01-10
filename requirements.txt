@@ -1,0 +1,7 @@
+Django==1.10.5
+gunicorn==19.6.0
+whitenoise==3.2.2
+dj-database-url==0.4.1
+
+# Need to install PostgreSQL firstly.
+psycopg2==2.6.2
